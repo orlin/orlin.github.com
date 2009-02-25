@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>ITeMerge</title>
- <link href="http://itemerge.com/atom.xml" rel="self"/>
+ <link href="http://monad.github.com/atom.xml" rel="self"/>
  <link href="http://itemerge.com/"/>
- <updated>2009-02-23T23:22:18+02:00</updated>
+ <updated>2009-02-25T19:49:39+02:00</updated>
  <id>http://itemerge.com/</id>
  <author>
    <name>Orlin M Bozhinov</name>
@@ -14,10 +14,10 @@
  
  <entry>
    <title>GitHub Pages Touch</title>
-   <link href="http://itemerge.com/2009/02/23/touch.html"/>
+   <link href="http://monad.github.com/2009/02/23/touch.html"/>
    <updated>2009-02-23T00:00:00+02:00</updated>
    <id>http://itemerge.com/2009/02/23/touch</id>
-   <content type="html">&lt;p&gt;A good new way to blog – is good for starting a blog, sometimes.&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;A good, new way to blog – is good for starting a blog, sometimes.&lt;/p&gt;</content>
  </entry>
  
  
